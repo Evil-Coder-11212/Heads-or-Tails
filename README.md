@@ -1,4 +1,4 @@
-# [Heads or Tails](https://evil-coder-11212.github.io/Secure-Password/)
+# [Heads or Tails](https://evil-coder-11212.github.io/Heads-or-Tails/)
 Heads or Tails is an web appilcation build with pure HTML, CSS, JS
 
 ## About Me
